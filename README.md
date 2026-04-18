@@ -13,7 +13,7 @@
 
 ---
 
-### Key Achievements
+### Impact
 
 - 🚀 **0% → 100% test coverage** — 2,000+ test cases, execution up to **2,400× faster** in one year (Python + Robot Framework)
 - ⚡ **40% reduction in test execution time** via optimised wait strategies & parallel runs (Sky Group / Liberty Global)
