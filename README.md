@@ -9,7 +9,7 @@
 - 🧪 6+ years of experience in **QA** across monolithic and microservices architectures
 - 📚 Teaching **Python & SDET** at CodeBrainers
 - 🎓 Applied Mathematics @ AGH University of Science and Technology, Kraków (4.5/5.0)
-- 📬 Reach me out at [contact@kamilbartocha.com](mailto:contact@kamilbartocha.com)
+- 📬 Reach me out at [kamilbartocha.com](kamilbartocha.com)
 
 ---
 
