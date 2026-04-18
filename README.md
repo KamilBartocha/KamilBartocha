@@ -5,61 +5,67 @@
 
 Find more about me at [kamilbartocha.com](https://kamilbartocha.com)
 
-> *"Software quality is never an incident — it's a rigorous standard built through well-thought-out automation."*
-
 ---
 
-### About Me
+## About Me
 
 - 🏢 Running **Aleph Code** — a B2B software test automation consultancy
-- 🧪 6+ years of experience across monolithic and microservices architectures
-- 📚 Teaching Python & Test Automation at **CodeBrainers**
+- 🧪 6+ years of experience in **QA** across monolithic and microservices architectures
+- 📚 Teaching **Python & SDET** at CodeBrainers
 - 🎓 Applied Mathematics @ AGH University of Science and Technology, Kraków (4.5/5.0)
-- 📬 Reach me at [contact@kamilbartocha.com](mailto:contact@kamilbartocha.com)
+- 📬 Reach me out at [contact@kamilbartocha.com](mailto:contact@kamilbartocha.com)
 
 ---
 
-### Key Achievements
+## Tech Stack
 
-- 🚀 **0% → 100% test automation coverage** — 2,000+ test cases, execution up to **2,400× faster** (Python + Robot Framework)
-- ⚡ **40% reduction in test execution time** via optimised wait strategies & parallel runs (Sky Group / Liberty Global)
-- 🔧 **Rebuilt a test automation framework from scratch** — eliminated years of legacy tooling (Nokia, 5G R&D)
-- 📺 Delivered automation for **YouTube, Netflix, Disney+, Amazon Prime** on embedded TV devices (Sky Glass)
-
----
-
-### Tech Stack
-
-**Testing & Automation**
+**Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Testing Frameworks**
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat&logo=robot-framework&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**CI/CD & DevOps**
+**CI/CD & VCS**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE?style=flat&logo=gerrit&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Messaging & Databases**
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=flat&logo=ibm&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 
-**APIs**
-![REST](https://img.shields.io/badge/REST-02569B?style=flat)
+**APIs, Tools & Methodologies**
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
 ![SOAP](https://img.shields.io/badge/SOAP-02569B?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat)
+![SAFe](https://img.shields.io/badge/SAFe-E91E1E?style=flat)
+
+**Test Case Design & Bug Tracking**
+![qTest](https://img.shields.io/badge/qTest-00A86B?style=flat)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
 ---
 
-### Experience
+### Certificates
 
-| Company | Role |
-|---|---|
-| Aleph Code | Senior Test Automation Engineer (B2B) |
-| Sky Group (Liberty Global) | Test Automation Engineer |
-| Nokia | Software Integration Engineer (5G R&D) |
-| CodeBrainers | Python & Test Automation Lecturer |
+- 📄 [ISTQB Certified Tester Foundation Level (CTFL) — 2022](certificates/KAMIL_BARTOCHA_18725_CTFL_2022_EN.pdf)
+- 📄 [GitLab Certificate of Achievement](certificates/Certificate_of_achievement_Kamil_Bartocha_Gitlab.pdf)
+- 📄 [Unit Testing with Python — Advanced (NobleProg, 2022)](certificates/NobleProg%20Cert%20-%20Unit%20Testing%20with%20Python%20-%20Advanced%20Certificate%20for%20Kamil%20%20Bartocha%20-%202022-06-22.pdf)
 
 ---
 
