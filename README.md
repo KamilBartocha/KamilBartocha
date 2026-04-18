@@ -1,13 +1,9 @@
-# <h1 align="center">Hi , I'm Kamil Bartocha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Kamil Bartocha 👨‍💻</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Test+Automation+Engineer;QA+|+Python+|+Test+Architecture&center=true&width=500&height=50"></a>
 </p>
 
-Find more about me at [kamilbartocha.com](https://kamilbartocha.com)
-
----
-
-## About Me
+### About Me
 
 - 🏢 Running **Aleph Code** — a B2B software test automation consultancy
 - 🧪 6+ years of experience in **QA** across monolithic and microservices architectures
@@ -17,7 +13,15 @@ Find more about me at [kamilbartocha.com](https://kamilbartocha.com)
 
 ---
 
-## Tech Stack
+### Key Achievements
+
+- 🚀 **0% → 100% test coverage** — 2,000+ test cases, execution up to **2,400× faster** in one year (Python + Robot Framework)
+- ⚡ **40% reduction in test execution time** via optimised wait strategies & parallel runs (Sky Group / Liberty Global)
+- 📺 Delivered UI test automation for **YouTube, Netflix, Disney+, Amazon Prime** on embedded TV devices (Sky Glass)
+
+---
+
+### Tech Stack
 
 **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -69,9 +73,10 @@ Find more about me at [kamilbartocha.com](https://kamilbartocha.com)
 
 ---
 
-### Let's Connect
+### Let's connect
 
-[![Website](https://img.shields.io/badge/kamilbartocha.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://kamilbartocha.com)
+[![Website](https://img.shields.io/badge/kamilbartocha.com-555555?style=flat-square&logo=google-chrome&logoColor=white)](https://kamilbartocha.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-bartocha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@kamilbartocha.com)
 
