@@ -15,9 +15,9 @@
 
 ### Impact
 
-- 🚀 **0% → 100% test coverage** — 2,000+ test cases, execution up to **2,400× faster** in one year (Python + Robot Framework)
-- 🚀 **40% reduction in test execution time** via optimised wait strategies & parallel runs (Sky Group / Liberty Global)
-- 🚀 Delivered UI test automation for **YouTube, Netflix, Disney+, Amazon Prime** on embedded TV devices (Sky Glass)
+-  **0% → 100% test coverage** — 2,000+ test cases, execution up to **2,400× faster** in one year (Python + Robot Framework)
+-  **40% reduction in test execution time** via optimised wait strategies & parallel runs (Sky Group / Liberty Global)
+-  Delivered UI test automation for **YouTube, Netflix, Disney+, Amazon Prime** on embedded TV devices (Sky Glass)
 
 ---
 
